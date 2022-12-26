@@ -1,5 +1,7 @@
 # safety-informer-for-Covid-19
 
+GUI Application based project
+
 #Here you can find all information about what you need to do if you are a covid positive or negative. 
 
 #To know your immunity bost information you can find it here.
