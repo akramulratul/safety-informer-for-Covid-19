@@ -11,3 +11,7 @@ GUI Application based project
 #admin log in id:Sin
 
 #admin login pass: admin
+
+![This is an Image](https://github.com/akramulratul/safety-informer-for-Covid-19/blob/master/Screenshot_Chances.PNG)
+
+![Screenshot on the chatting bot](https://github.com/akramulratul/safety-informer-for-Covid-19/blob/master/Screenshot_Covid_Positive.PNG)
